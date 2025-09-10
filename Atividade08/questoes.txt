@@ -1,0 +1,2 @@
+Calcular e comparar diferentes métricas de classificação (Precisão, Recall, F1-Score, AUC-ROC) 
+usando um modelo de aprendizado de máquina em Python.
